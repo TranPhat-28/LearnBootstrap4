@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: aliceblue;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+
+/*header style*/
+
+.header {
+    background-image: url('https://preview.redd.it/spdefm8p5no81.png?width=640&crop=smart&auto=webp&s=842f7f7ef3fa8663f9c8376372eae94e20a80165');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+}
